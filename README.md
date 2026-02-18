@@ -99,6 +99,7 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
 - 🔐 MAC Address Changer – Python tool for MAC spoofing in lab environments.
 
 
