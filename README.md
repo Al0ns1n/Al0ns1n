@@ -14,10 +14,10 @@
   
 ## 👨‍💻 About Me
 
-- 🔐 Focused on Cybersecurity & Blue Team
-- ☁️ Working with Cloud & Infrastructure
-- 🧠 Always learning and building
-- ⚡ Passionate about systems and automation
+🔐 Focused on Cybersecurity & Blue Team
+☁️ Working with Cloud & Infrastructure
+🧠 Always learning and building
+⚡ Passionate about systems and automation
 
 ---
 
