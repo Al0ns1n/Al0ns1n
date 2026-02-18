@@ -90,7 +90,6 @@
   
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black&style=for-the-badge" height="40"/> <img width="14"/>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=red&style=for-the-badge" height="40"/> <img width="14"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" height="40"/>
   
 </div>
 
