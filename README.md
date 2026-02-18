@@ -23,7 +23,7 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="60" alt="git logo" /> <img width="20" /> 
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="60" alt="git logo" /> <img width="60" /> 
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="60" alt="github logo" /><img width="20" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="60" alt="html5 logo" /> <img width="20" /> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="60" alt="kotlin logo" /> <img width="20" /> 
