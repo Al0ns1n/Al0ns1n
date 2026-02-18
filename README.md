@@ -1,6 +1,6 @@
 <h1 align="center">🛡️ AL0NS1N</h1>
 
-<h3 align="center">Cybersecurity Enthusiast | Cloud & Infrastructure | DevOps Mindset</h3>
+<h3 align="center">Cybersecurity Blue Team | Cloud & Infrastructure | DevOps Mindset</h3>
 
 ---
 
