@@ -21,6 +21,8 @@
 
 ###
 
+<h3 align="center">💻 Programming Languages</h3>
+
 <div align="center">
   
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="60" alt="git logo" /> <img width="20" /> 
@@ -34,6 +36,8 @@
   </div> 
 
 ###
+
+<h3 align="center">⚙️ Platforms & Infrastructure </h3>
 
 <div align="center"> 
   
