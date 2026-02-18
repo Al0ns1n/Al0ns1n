@@ -73,8 +73,8 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="45"/><img width="14"/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" height="45"/><img width="14"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="40"/><img width="14"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" height="40"/><img width="14"/>
   <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge" height="40"/> <img width="14"/>
   <img src="https://img.shields.io/badge/ANY.RUN-111111?style=for-the-badge" height="40"/> <img width="14"/>
   <img src="https://img.shields.io/badge/John_the_Ripper-990000?style=for-the-badge" height="40"/> <img width="14"/>
@@ -90,7 +90,7 @@
   
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black&style=for-the-badge" height="40"/> <img width="14"/>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=red&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" height="45"/><img width="14"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" height="40"/><img width="14"/>
   
 </div>
 
