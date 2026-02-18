@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo" /> <img width="20" />
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo" /> <img width="20" />
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="40" alt="debian logo" /><img width="20" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="40"/> <img width="12" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo" />
 
   </div>
@@ -66,14 +67,9 @@
 <h3 align="center">🔐 Cybersecurity</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="40"/>
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="40"/>
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" height="40"/>
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" height="40"/>
-  <img width="12" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="40"/> <img width="12" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" height="40"/>  <img width="12" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" height="40"/> <img width="12" />
   <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge" height="40"/>
 
   </div>
