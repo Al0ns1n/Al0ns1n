@@ -12,7 +12,6 @@
   
 ## 👨‍💻 About Me
 
-<div align="center">
 - 🔐 Focused on Cybersecurity & Blue Team
 - ☁️ Working with Cloud & Infrastructure
 - 🧠 Always learning and building
@@ -98,7 +97,6 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
 - 🔐 MAC Address Changer – Python tool for MAC spoofing in lab environments.
 
 
