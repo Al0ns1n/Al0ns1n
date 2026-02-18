@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="TU_IMAGEN_AQUI" width="180" style="border-radius: 10px;" />
+  <img src="https://media.discordapp.net/attachments/1200223195853234227/1467893160750354525/image.png?ex=69972189&is=6995d009&hm=0592f90e108b94bc8573731496ff3ad0b31bcc87ba64eedfb6570c6e78e73975&=&format=webp&quality=lossless" width="180" style="border-radius: 10px;" />
 </div>
 
 ---
