@@ -50,6 +50,8 @@
 
 ### 
 
+<h3 align="center">🧠 OS </h3>
+
 <div align="center"> 
   
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo" /> <img width="20" />
