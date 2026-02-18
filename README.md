@@ -80,7 +80,9 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Al0ns1n&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Al0ns1n&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al0ns1n&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
+
 
 
