@@ -61,6 +61,23 @@
 
 ### 
 
+<h3 align="center">🔐 Cybersecurity</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" height="40"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" height="40"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge" height="40"/>
+
+  </div>
+
+### 
+
 <picture> 
   
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alons1n/Alons1n/output/pacman-contribution-graph-dark.svg"> 
@@ -71,17 +88,5 @@
 
 ###
 
-<!--
-**Al0ns1n/Al0ns1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
