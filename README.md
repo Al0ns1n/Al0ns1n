@@ -22,6 +22,7 @@
 ## 💻 Programming Languages
 
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="45"/>
   <img width="14"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="45"/>
@@ -29,13 +30,15 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="45"/>
   <img width="14"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="45"/>
-</div>
+  
+  </div>
 
 ---
 
 ## ☁️ Platforms & Infrastructure
 
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="45"/>
   <img width="14"/>
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="45"/>
@@ -43,13 +46,15 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="45"/>
   <img width="14"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="45"/>
-</div>
+
+  </div>
 
 ---
 
 ## 🖥 Operating Systems
 
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="45"/>
   <img width="14"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="45"/>
@@ -59,20 +64,23 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="45"/>
   <img width="14"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="45"/>
-</div>
+  
+  </div>
 
 ---
 
 ## 🔐 Cybersecurity
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="45"/>
-  <img width="14"/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" height="45"/>
-  <img width="14"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" height="45"/>
-  <img width="14"/>
+  
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="45"/><img width="14"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" height="45"/><img width="14"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" height="45"/><img width="14"/>
   <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge" height="45"/>
+  <img src="https://img.shields.io/badge/ANY.RUN-111111?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-990000?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge" height="40"/>
+ 
 </div>
 
 ---
