@@ -14,7 +14,6 @@
   
 ## 👨‍💻 About Me
 
- <div align="center">
 - 🔐 Focused on Cybersecurity & Blue Team
 - ☁️ Working with Cloud & Infrastructure
 - 🧠 Always learning and building
