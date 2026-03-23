@@ -95,7 +95,7 @@
 ## 🚀 Featured Projects
 
 - 🔐 MAC Address Changer – Python tool for MAC spoofing in lab environments.
-
+- 🛡️ BlueshieldAA – Blue team Python toolkit: port scanner, hash checker with VirusTotal, and local security auditor.
 
 
 
