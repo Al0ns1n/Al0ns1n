@@ -3,12 +3,6 @@
 <h3 align="center">Cybersecurity Blue Team | Cloud & Infrastructure | DevOps Mindset</h3>
 
 ---
-
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1200223195853234227/1467893160750354525/image.png?ex=69c1fa49&is=69c0a8c9&hm=0e5b6d4fb76dfaefbecbae3797579087397d0978d1886bf2bd0640c580a51a38&=&format=webp&quality=lossless" width="180" style="border-radius: 10px;" />
-</div>
-
----
   
 ## 👨‍💻 About Me
 
